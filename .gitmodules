@@ -8,6 +8,9 @@
 [submodule "gglinedensity"]
 	path = gglinedensity
 	url = https://github.com/hrryt/gglinedensity
+[submodule "ggtreebar"]
+	path = ggtreebar
+	url = https://github.com/hrryt/ggtreebar
 [submodule "minesweeper"]
 	path = minesweeper
 	url = https://github.com/hrryt/minesweeper
